@@ -1,0 +1,16 @@
+{
+    "webresources": [
+      {
+        "root": "..\\dist",
+        "solution": "pwapp_PowerAppsDemo",
+        "files": [
+          {
+            "uniquename": "pwapp_/js/accountForm.js",
+            "file": "accountForm/accountForm.js",
+            "description": "Form script for account table"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,6 @@
+{
+    "eslint.workingDirectories": ["scripts"],
+    "editor.codeActionsOnSave": {
+    "source.fixAll": true
+    }
+}
