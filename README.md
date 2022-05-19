@@ -3,7 +3,7 @@ Start building webresources using TypeScript for model driven app. This is an ex
 
 ## Prerequisites
 
-You must have the following installed globally before using the project:
+You must have the following installed before using the project:
 
 - [Node](https://nodejs.org/en/)
 - [Nuget CLI](https://nodejs.org/en/)
@@ -13,7 +13,8 @@ You must have the following installed globally before using the project:
 
 ## Folder Structure
 
-image.png
+![Folder Structure](https://user-images.githubusercontent.com/40472975/169253535-b14e011d-637d-4c64-a1c4-4a340e76de5b.JPG)
+
 ## Configuration
 
 Install the packages within script folder
